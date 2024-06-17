@@ -7,7 +7,9 @@ tags: [Site Information]
 ---
 
 
+# Test
 
+Hello! this is a **test* of the publishing feature.
 
 
 

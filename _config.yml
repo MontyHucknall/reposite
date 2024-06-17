@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://i.ibb.co/b1MPfYM/output-onlinepngtools-12.png
+avatar: https://i.ibb.co/4gks1PM/Screenshot-2024-06-17-at-10-38-24-removebg-preview.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
