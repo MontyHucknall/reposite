@@ -9,37 +9,37 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: europe/london
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Monty's Blog # the main title
+title: Monty Hucknall # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A blog of Projects and Commentary # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Expect to see Political and Economic commentary aswell as videos on other topics.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://montyhucknall.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: MontyHucknall # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: MontyHucknall # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Monty_Hucknall
-  email: example@domain.com # change to your email address
+  name: Monty Hucknall
+  email: MontyHucknall@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/MontyHucknall # change to your twitter homepage
+    - https://github.com/MontyHucknall # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://i.ibb.co/7RxZL4B/IMG-6552-1.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
