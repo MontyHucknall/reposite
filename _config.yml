@@ -14,7 +14,7 @@ timezone: europe/london
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Monty Hucknall # the main title
+title: Monty Published # the main title
 
 tagline: A blog of Projects and Commentary # it will display as the sub-title
 
