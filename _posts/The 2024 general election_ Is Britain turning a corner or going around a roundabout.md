@@ -7,7 +7,6 @@ tags: [Politics, Economics, UK]
 ---
 
 
-
 ## ( work in progress preview ) The 2024 general election: Is Britain turning a corner or going around a roundabout?
 
 **By Monty** 
