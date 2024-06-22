@@ -1,4 +1,14 @@
-﻿## ( work in progress preview ) The 2024 general election: Is Britain turning a corner or going around a roundabout?
+﻿---
+title: The July 2024 General Election
+date: 2024-06-22 7:00
+categories: [Article]
+tags: [Politics, Economics, UK]
+
+---
+
+
+
+## ( work in progress preview ) The 2024 general election: Is Britain turning a corner or going around a roundabout?
 
 **By Monty** 
 
