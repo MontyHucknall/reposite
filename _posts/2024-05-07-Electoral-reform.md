@@ -1,6 +1,3 @@
-Got it! Here is the updated Markdown document with the relevant information changed accordingly:
-
-```markdown
 ---
 title: A Call for Electoral Reform
 date: 2024-07-04 13:01
@@ -26,4 +23,3 @@ If we want to fix our country, we must start by fixing the foundation on which p
 If you believe in fair democracy for our country, consider voting liberal democrats. Because I can’t.
 
 They promise to bring real electoral reform as well as so many other powerful policies that set our nation's economy up to flourish in the future and destroy our nation’s seeming decline.
-```
