@@ -45,12 +45,12 @@ So that’s all I have for you now. I hope you learnt something, and as it turns
 
 *sources:*
 <br>
-[1]https://www.bbc.com/news/live/cnk4jdwp49et
+1 - https://www.bbc.com/news/live/cnk4jdwp49et
 <br>
-[2]https://www.bbc.com/news/live/cn056371561t
+2 - https://www.bbc.com/news/live/cn056371561t
 <br>
-[3]https://www.thesun.co.uk/tech/27223882/microsoft-crowdstrike-meltdown-trillions-cost-world-economy/
+3 - https://www.thesun.co.uk/tech/27223882/microsoft-crowdstrike-meltdown-trillions-cost-world-economy/
 <br>
-[4]https://youtu.be/4yDm6xNeYas?si=cEO7anKOoPZidXTP
+4 - https://youtu.be/4yDm6xNeYas?si=cEO7anKOoPZidXTP
 <br>
-[5]https://www.youtube.com/watch?v=deJuXfwS7Bo 
+5 - https://www.youtube.com/watch?v=deJuXfwS7Bo 
