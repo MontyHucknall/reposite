@@ -1,7 +1,7 @@
 # The Site Configuration
-              - name: generate-sitemap
-                uses: cicirello/generate-sitemap@v1.10.1
-            
+url: "https://example.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 # Import the theme
 theme: jekyll-theme-chirpy
 
