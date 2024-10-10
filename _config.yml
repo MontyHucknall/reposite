@@ -1,5 +1,5 @@
 # The Site Configuration
-url: "https://example.com" # the base hostname & protocol for your site
+url: "https://montypublished.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
 # Import the theme
