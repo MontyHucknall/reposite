@@ -1,4 +1,5 @@
 # The Site Configuration
+
 url: "https://montypublished.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
