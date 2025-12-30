@@ -10,4 +10,4 @@ This site is dedicated to showcasing my various projects and publications. There
 
 Stay tuned for more updates and new content.
 
-*About section last edited on 24th November 2024*
+*About section last edited on 24th Nov 2024*
